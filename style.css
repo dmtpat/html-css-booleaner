@@ -1,0 +1,19 @@
+/* sfondo header di pagina*/
+header{
+    background-image: url(./img/pattern.png);
+    background-repeat:repeat-x;
+    background-color: #6495ED;
+    height:250px;
+}
+/*posizione e grandezza logo*/
+.logo{
+    height: 100px;
+    padding-top: 150px;
+    padding-left: 5%;
+    background-color: noone;
+}
+/*contenitore immagine logo
+.logo-position{
+    background-color: noone;
+    height: 100%;
+}*/
