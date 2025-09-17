@@ -26,6 +26,8 @@ main{
     padding-left: 8%;
     padding-right: 8%;
     font-family:'Times New Roman', Times, serif;
+    font-size: x-large;
+ 
 }
 /*formattazione titolo principale*/
 h1{
@@ -42,6 +44,37 @@ details{
     background-color: white;
     color: cornflowerblue;
 }
+/*evidenzia*/
 mark{
     color: #000000;
 }
+/*formattazione paragrafo*/
+p, li{
+    font-size: x-large;
+}
+/*li{
+    font-size: x-large;
+}*/
+/* table stile*/
+table{
+    padding-top: 30x;
+    font-size: x-large;
+    border: 0px;
+    border-spacing: 0px;
+    text-align: left;
+}
+thead{
+    background-color: #6495ED;
+    padding: 0px;
+    height:min-content;
+}
+.t-color{
+    background-color: #87CEFA;
+}
+.col-size1{
+    width: 20%;
+}
+.col-size2{
+    width: 60%;
+}
+/*-------------footer----------*/
