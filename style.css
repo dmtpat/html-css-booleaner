@@ -44,6 +44,13 @@ details{
     background-color: white;
     color: cornflowerblue;
 }
+/*formattazione immagini e didascalia*/
+frame{
+    width: 84%;
+}
+figcaption{
+    font-size: medium;
+}
 /*evidenzia*/
 mark{
     color: #000000;
