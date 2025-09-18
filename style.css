@@ -36,9 +36,14 @@ h1{
     margin-bottom: 0%;
 }
 /*autore*/
-details{
+.autore{
     padding-top: 2px;
-    color: #D3D3D3 ;
+    font-weight: 800;
+    color: #808080;
+}
+/* data */
+.date{
+    font-size: large;
 }
 #booleaner{
     background-color: white;
@@ -85,3 +90,30 @@ thead{
     width: 60%;
 }
 /*-------------footer----------*/
+footer{
+    padding-top: 20px;
+    padding-left: 8%;
+    padding-right: 8%;
+    font-weight: 800;
+    color: #808080;
+}
+.sugg1{
+    background-image: url(./img/monitor.jpg) ;
+    position: relative;
+    offset-position: 0px;
+    width: 250px;
+    height: 200px;
+}
+.sugg2{
+    background-image: url(./img/graph.jpg) ;
+    position: relative;
+    offset-position: 0px;
+    width: 250px;
+    height: 200px;
+}
+.pfooter{
+    color: #FFFFFF;
+    padding-left: 10px;
+    padding-top: 10px;
+
+}
